@@ -1,6 +1,7 @@
 # Aplicación de busqueda de paises
 
 Aplicación para la busqueda de paises utilizando la api de https://restcountries.com/
+
 Tecnología usada: Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
