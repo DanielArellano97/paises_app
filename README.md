@@ -1,4 +1,8 @@
-# PaisesApp
+# Aplicación de busqueda de paises
+
+Aplicación que busca paises o capitales por su nombre y entrega información general del país.
+Tecnología y/o librerias usadas: Angular
+Api utilizada: https://restcountries.com/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
